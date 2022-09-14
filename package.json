@@ -1,0 +1,12 @@
+{
+    "name": "js_animation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "homepage": "https://339598u5uut.github.io/JS-animation/",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kiva N.",
+    "license": "ISC"
+}
